@@ -46,7 +46,7 @@ Future Improvements
 - Build a dashboard to track user queries
 
 Author
-Amrutha
+santhosh
 AIML intern and data analyst passionate about ethical tech, dashboards, and real-world impact.
 📍 Vijayawada, Andhra Pradesh
 🔗 GitHub Profile
